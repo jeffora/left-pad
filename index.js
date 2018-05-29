@@ -6,6 +6,8 @@
 'use strict';
 module.exports = leftPad;
 
+console.log('custom left-pad');
+
 var cache = [
   '',
   ' ',
